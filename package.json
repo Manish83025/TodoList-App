@@ -1,5 +1,5 @@
 {
-  "name": "rendering",
+  "name": "project-6-todolist-app-",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,9 @@
     "@tailwindcss/vite": "^4.0.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwindcss": "^4.0.6"
+    "react-icons": "^5.4.0",
+    "tailwindcss": "^4.0.6",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
@@ -30,7 +32,15 @@
   },
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish83025/Project-6-TodoList-App-.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manish83025/Project-6-TodoList-App-/issues"
+  },
+  "homepage": "https://github.com/Manish83025/Project-6-TodoList-App-#readme"
 }
