@@ -1,6 +1,6 @@
 # Todo List App
 
-A minimal **Todo List App** built using **React, Tailwind CSS, and React Icons** in just **4 lines of code**.
+ **Todo List App** built using **React, Tailwind CSS, and React Icons** 
 
 ## 🚀 Features
 - Super lightweight and minimalistic
